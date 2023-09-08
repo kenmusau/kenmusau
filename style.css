@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #edf2ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: "Inter", sans-serif;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  width: 750px;
+  box-shadow: 0 20px 30px 0px rgba(0, 0, 0, 0.2);
+  border-radius: 12px;
+  column-gap: 30px;
+  background-color: #364fc7;
+  color: white;
+  font-size: 18px;
+}
+
+.display-pic {
+  width: 370px;
+  height: 290px;
+  /* border-radius: 12px; */
+  border-top-left-radius: 12px;
+  border-bottom-left-radius: 12px;
+  grid-column: 1 / 2;
+  grid-row: 1 / 4;
+  min-width: 100%;
+  min-height: 100%;
+  border-color: #edf2ff;
+}
+
+.slack-name {
+  /* align-self: center; */
+  margin-top: 20px;
+  font-size: 48px;
+  text-align: center;
+  font-weight: bold;
+  /* margin-bottom: 10px; */
+}
+
+.personal-details {
+  grid-row: 2 / 4;
+}
+
+.track {
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.day {
+  margin-top: 10px;
+}
+
+a:link {
+  margin: 20px 0;
+  display: inline-block;
+  color: #22b8cf;
+}

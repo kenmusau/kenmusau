@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1 data-testid="slackUserName" class="slack-name">kenmusau</h1>
+      <img src="./kenmusau.png" alt="kenmusau" class="display-pic" />
+      <div class="personal-details">
+        <p class="track" data-testid="myTrack">Frontend Developer</p>
+        <p class="day">
+          Week Day:
+          <span data-testid="currentDayOfTheWeek" class="current-day"></span>
+        </p>
+        <a href="#" data-testid="“githubURL”" class="github-link"
+          >Github link</a
+        >
+        <p class="utctime">
+          UTC time:
+          <span data-testid="currentUTCTime" class="utc-time"></span>
+        </p>
+      </div>
+    </div>
+  </body>
+  <script src="script.js"></script>
+</html>
