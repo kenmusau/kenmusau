@@ -1,46 +1,29 @@
-# FRONT-END TRACK
 
-## STAGE ONE TASK
 
-### Task:
 
-Frontend Page Creation with Specific Elements
 
-### Objective:
+## Kennedy Musau
 
-Develop and host a web page using HTML, CSS and JS that showcases specific personal and real-time data attributes. Each required element should have a specified data-testid attribute for easy identification and testing.
+### 🌟 Software Developer in Transition | 🌍 Kenya | 💻 Open to Opportunities
 
-## Requirements:
+Passionate about leveraging technology to create innovative solutions, I am on a journey to transition from cement manufacturing industry to a skilled software developer. My focus is on mastering:
 
-### Slack Name:
+**⚡ Technologies:** React, Ruby, Ruby on Rails, HTML, CSS, and Tailwind CSS.
 
-Display your Slack name prominently.
 
-### Attribute: data-testid="slackUserName"
+**🔧 Skills:**
 
-### Slack Display Picture:
+- Full-stack web development
+- Front-end design and implementation
+- Database management
+- Problem-solving and analytical thinking
 
-Showcase your Slack profile picture.
-The image's alt attribute should be your Slack username.
 
-### Attribute: data-testid="slackDisplayImage"
+**🤝 Let's Connect:**
 
-Current Day of the Week:
-Indicate the current day of the week (e.g., Monday, Tuesday).
+📧 [kennedy.musauu@gmail.com]
+🔗 LinkedIn: [www.linkedin.com/in/kennedy-musau]
 
-### Attribute: data-testid="currentDayOfTheWeek"
 
-Current UTC Time:
-Display the current UTC time in milliseconds,.
+Open to discussing exciting opportunities that align with my journey into software development. Let's collaborate and drive innovation!
 
-### Attribute: data-testid="currentUTCTime"
-
-### Track:
-
-Mention your track (e.g Frontend).
-
-### Attribute: data-testid="myTrack"
-
-GitHub URL:
-Provide a clickable link to your GitHub repository where the source code for this task resides.
-Attirbute: data-testid=“githubURL”
