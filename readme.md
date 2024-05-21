@@ -6,9 +6,9 @@
 
 ### 🌟 Software Developer in Transition | 🌍 Kenya | 💻 Open to Opportunities
 
-Passionate about leveraging technology to create innovative solutions, I am on a journey to transition from cement manufacturing industry to a skilled software developer. My focus is on mastering:
+Passionate about leveraging technology to create innovative solutions, I am on a journey to transition from a logistics role in the cement manufacturing industry to a skilled software developer. My focus is on mastering:
 
-**⚡ Technologies:** React, Ruby, Ruby on Rails, HTML, CSS, and Tailwind CSS.
+**⚡ Technologies:** React, Ruby, Ruby on Rails, and Tailwind CSS.
 
 
 **🔧 Skills:**
@@ -22,7 +22,7 @@ Passionate about leveraging technology to create innovative solutions, I am on a
 **🤝 Let's Connect:**
 
 📧 [kennedy.musauu@gmail.com]
-🔗 LinkedIn: [www.linkedin.com/in/kennedy-musau]
+🔗 LinkedIn: [www.linkedin.com/in/kennedymusau]
 
 
 Open to discussing exciting opportunities that align with my journey into software development. Let's collaborate and drive innovation!
