@@ -22,8 +22,6 @@ Passionate about leveraging technology to create innovative solutions, I am on a
 **🤝 Let's Connect:**
 
 📧 [kennedy.musauu@gmail.com]
-🔗 LinkedIn: [www.linkedin.com/in/kennedymusau]
-
 
 Open to discussing exciting opportunities that align with my journey into software development. Let's collaborate and drive innovation!
 
